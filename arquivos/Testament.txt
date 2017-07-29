@@ -1,0 +1,20 @@
+ARTIST=Testament
+ALBUM=The Ritual
+YEAR=1992
+GENRE=Trash Metal
+ALBUM_NUM=05
+
+Music_Num=01
+Music_Name=Signs Of Chaos
+Music_Composer=
+
+02. Electric Crown
+03. So Many Lies
+04. Let Go Of My World
+05. The Ritual
+06. Deadline
+07. As The Seasons Grey
+08. Agony
+09. The Sermon
+10. Return To Serenity
+11. Troubled Dreams
